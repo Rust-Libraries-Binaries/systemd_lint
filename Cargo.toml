@@ -3,7 +3,7 @@ name = "systemd_lint"
 version = "0.1.0"
 authors = ["Ben Santora <bensatlantik@gmail.com>"]
 edition = "2018"
-description =
+description = "A tool to validate and analyze systemd configuration files for potential issues and optimizations."
 license = "MIT"
 repository = "https://github.com/bensatlantik/systemd_lint"
 
