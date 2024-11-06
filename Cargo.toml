@@ -1,0 +1,12 @@
+[package]
+name = "systemd_lint"
+version = "0.1.0"
+authors = ["Ben Santora <bensatlantik@gmail.com>"]
+edition = "2018"
+description =
+license = "MIT"
+repository = "https://github.com/bensatlantik/systemd_lint"
+
+readme = "README.md"
+
+[dependencies]
